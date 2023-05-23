@@ -16,7 +16,7 @@ python3-xlib==0.15
 PyTweening==1.0.3
 pytz==2021.1
 PyVirtualDisplay==2.1
-requests==2.25.1
+requests==2.31.0
 selenium==3.141.0
 six==1.15.0
 tornado==6.1
